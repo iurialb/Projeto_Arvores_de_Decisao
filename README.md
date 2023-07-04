@@ -13,4 +13,4 @@ Para realizar o projeto por meio de Árvore de Decisão, contamos com as variáv
 
 <br>
 
-<h6> O modelo foi acompanhado conjuntamento com o professor João Serrajordia (Juka) no MBA de Ciência de Dados pela Universidade de São Paulo. </h6>
+<h6> O modelo foi acompanhado conjuntamente com o professor João Serrajordia (Juka) no MBA de Ciência de Dados pela Universidade de São Paulo. </h6>
