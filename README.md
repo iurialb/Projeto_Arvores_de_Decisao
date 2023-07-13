@@ -1,6 +1,6 @@
 # 🌳 Árvores de Decisao
 
-O presente projeto visa analisar a probabilidade de sobrevivência dos indivíduos que embarcaram no transatlântico Titanic.
+O presente projeto visa analisar a probabilidade de sobrevivência dos indivíduos que embarcaram no transatlântico Titanic por meio do método de árvore de decisão com a linguagem R.
 
 <hr>
 
